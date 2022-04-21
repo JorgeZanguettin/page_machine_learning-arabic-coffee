@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/machine_learning-arabic-coffee/static/css/main.63102135.css",
-    "main.js": "/machine_learning-arabic-coffee/static/js/main.c286959b.js",
+    "main.css": "/machine_learning-arabic-coffee/static/css/main.4593c603.css",
+    "main.js": "/machine_learning-arabic-coffee/static/js/main.8c567cf9.js",
     "static/js/787.32c791cc.chunk.js": "/machine_learning-arabic-coffee/static/js/787.32c791cc.chunk.js",
     "index.html": "/machine_learning-arabic-coffee/index.html",
-    "main.63102135.css.map": "/machine_learning-arabic-coffee/static/css/main.63102135.css.map",
-    "main.c286959b.js.map": "/machine_learning-arabic-coffee/static/js/main.c286959b.js.map",
+    "main.4593c603.css.map": "/machine_learning-arabic-coffee/static/css/main.4593c603.css.map",
+    "main.8c567cf9.js.map": "/machine_learning-arabic-coffee/static/js/main.8c567cf9.js.map",
     "787.32c791cc.chunk.js.map": "/machine_learning-arabic-coffee/static/js/787.32c791cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63102135.css",
-    "static/js/main.c286959b.js"
+    "static/css/main.4593c603.css",
+    "static/js/main.8c567cf9.js"
   ]
 }
