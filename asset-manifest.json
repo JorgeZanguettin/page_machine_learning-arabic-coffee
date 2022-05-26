@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/machine_learning-arabic-coffee/static/css/main.4593c603.css",
-    "main.js": "/machine_learning-arabic-coffee/static/js/main.8c567cf9.js",
-    "static/js/787.32c791cc.chunk.js": "/machine_learning-arabic-coffee/static/js/787.32c791cc.chunk.js",
-    "index.html": "/machine_learning-arabic-coffee/index.html",
-    "main.4593c603.css.map": "/machine_learning-arabic-coffee/static/css/main.4593c603.css.map",
-    "main.8c567cf9.js.map": "/machine_learning-arabic-coffee/static/js/main.8c567cf9.js.map",
-    "787.32c791cc.chunk.js.map": "/machine_learning-arabic-coffee/static/js/787.32c791cc.chunk.js.map"
+    "main.css": "/page_machine_learning-arabic-coffee/static/css/main.4593c603.css",
+    "main.js": "/page_machine_learning-arabic-coffee/static/js/main.ab6d7384.js",
+    "static/js/787.32c791cc.chunk.js": "/page_machine_learning-arabic-coffee/static/js/787.32c791cc.chunk.js",
+    "index.html": "/page_machine_learning-arabic-coffee/index.html",
+    "main.4593c603.css.map": "/page_machine_learning-arabic-coffee/static/css/main.4593c603.css.map",
+    "main.ab6d7384.js.map": "/page_machine_learning-arabic-coffee/static/js/main.ab6d7384.js.map",
+    "787.32c791cc.chunk.js.map": "/page_machine_learning-arabic-coffee/static/js/787.32c791cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4593c603.css",
-    "static/js/main.8c567cf9.js"
+    "static/js/main.ab6d7384.js"
   ]
 }
